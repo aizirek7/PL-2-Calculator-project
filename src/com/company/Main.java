@@ -11,6 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         boolean continueCalculating = true;
 
+
         System.out.println("Welcome to the Calculator");
 
 
