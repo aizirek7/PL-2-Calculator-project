@@ -8,6 +8,7 @@ public class Main {
     private static List<String> history = new ArrayList<>();
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         boolean continueCalculating = true;
 
