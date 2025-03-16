@@ -18,6 +18,7 @@ public class Main {
 
 
 
+
         // Main loop to keep the calculator running until the user decides to exit
         while (continueCalculating) {
             System.out.print("Please enter your arithmetic expression: ");
