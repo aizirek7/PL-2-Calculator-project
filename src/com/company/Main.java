@@ -13,6 +13,8 @@ public class Main {
 
         System.out.println("Welcome to the Calculator");
 
+
+
         // Main loop to keep the calculator running until the user decides to exit
         while (continueCalculating) {
             System.out.print("Please enter your arithmetic expression: ");
